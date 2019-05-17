@@ -1,0 +1,12 @@
+{
+	"name": "stremio-addon-titlovi-com",
+	"version": "1.0.0",
+	"description": "Add-on for subtitles from titlovi.com.",
+	"author": "Almir Dzidic",
+	"scripts": {
+		"start": "node bin/server"
+	},
+	"dependencies": {
+		"stremio-addon-sdk": "^1.2.0"
+	}
+}
